@@ -1,0 +1,5 @@
+com\subtitlor\utilities\SubtitlesHandler.class
+com\subtitlor\dao\SubtitleDAO.class
+com\subtitlor\model\Subtitle.class
+com\subtitlor\dao\SubtitleDAOImpl.class
+com\subtitlor\servlets\EditSubtitle.class
