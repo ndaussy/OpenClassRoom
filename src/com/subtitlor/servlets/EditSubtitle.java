@@ -28,8 +28,11 @@ public class EditSubtitle extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
+<<<<<<< HEAD
 	
 		
+=======
+>>>>>>> a0711902d5e5bf2419df28586fe50d387c66b5b5
 	}
 
 }
